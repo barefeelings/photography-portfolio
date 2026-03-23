@@ -128,7 +128,7 @@ export default function Home() {
             className="relative h-[600px]"
           >
             <Image
-              src="https://images.unsplash.com/photo-1550005810-35040f7f3292?auto=format&fit=crop&q=80&w=800"
+              src="https://images.unsplash.com/photo-1554048612-b6a482bc67e5?auto=format&fit=crop&q=80&w=800"
               alt="Photographer"
               fill
               className="object-cover grayscale hover:grayscale-0 transition-all duration-700"
@@ -185,14 +185,21 @@ export default function Home() {
         </div>
         
         <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-2 px-1">
-          {[...Array(6)].map((_, i) => (
+          {[
+            "https://images.unsplash.com/photo-1511285560929-80b456fea0bc",
+            "https://images.unsplash.com/photo-1583939003579-730e3918a45a",
+            "https://images.unsplash.com/photo-1519741497674-611481863552",
+            "https://images.unsplash.com/photo-1520854221256-17451cc331bf",
+            "https://images.unsplash.com/photo-1519225495810-75178319a11b",
+            "https://images.unsplash.com/photo-1532712938310-34cb3982ef74"
+          ].map((url, i) => (
             <motion.div
               key={i}
               whileHover={{ scale: 0.98 }}
               className="aspect-square relative overflow-hidden"
             >
               <Image
-                src={`https://images.unsplash.com/photo-${1500000000000 + i * 1000000}?auto=format&fit=crop&q=80&w=400`}
+                src={`${url}?auto=format&fit=crop&q=80&w=400`}
                 alt="Instagram post"
                 fill
                 className="object-cover"

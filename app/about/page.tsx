@@ -71,7 +71,7 @@ export default function About() {
         <div className="grid md:grid-cols-2 gap-16 items-center">
           <motion.div {...fadeIn} className="relative aspect-[4/5]">
             <Image
-              src="https://images.unsplash.com/photo-1550005810-35040f7f3292?auto=format&fit=crop&q=80&w=800"
+              src="https://images.unsplash.com/photo-1554048612-b6a482bc67e5?auto=format&fit=crop&q=80&w=800"
               alt="Lead Photographer"
               fill
               className="object-cover"
