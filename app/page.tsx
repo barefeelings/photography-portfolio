@@ -23,7 +23,7 @@ const featuredPhotos = [
   "https://images.unsplash.com/photo-1511285560929-80b456fea0bc?auto=format&fit=crop&q=80&w=800",
   "https://images.unsplash.com/photo-1583939003579-730e3918a45a?auto=format&fit=crop&q=80&w=800",
   "https://images.unsplash.com/photo-1520854221256-17451cc331bf?auto=format&fit=crop&q=80&w=800",
-  "https://images.unsplash.com/photo-1519225495810-75178319a11b?auto=format&fit=crop&q=80&w=800",
+  "https://images.unsplash.com/photo-1607190074257-dd4b7af0309f?auto=format&fit=crop&q=80&w=800",
   "https://images.unsplash.com/photo-1532712938310-34cb3982ef74?auto=format&fit=crop&q=80&w=800",
 ];
 
@@ -190,7 +190,7 @@ export default function Home() {
             "https://images.unsplash.com/photo-1583939003579-730e3918a45a",
             "https://images.unsplash.com/photo-1519741497674-611481863552",
             "https://images.unsplash.com/photo-1520854221256-17451cc331bf",
-            "https://images.unsplash.com/photo-1519225495810-75178319a11b",
+            "https://images.unsplash.com/photo-1607190074257-dd4b7af0309f",
             "https://images.unsplash.com/photo-1532712938310-34cb3982ef74"
           ].map((url, i) => (
             <motion.div

@@ -20,7 +20,7 @@ const dummyVideos: Video[] = [
   { id: "jNQXAC9IVRw", couple: "Emma & James", duration: "03:45", category: "Pre-Shoot Films", thumbnail: "https://images.unsplash.com/photo-1511285560929-80b456fea0bc?auto=format&fit=crop&q=80&w=800" },
   { id: "dQw4w9WgXcQ", couple: "Chloe & Mark", duration: "04:12", category: "Highlights", thumbnail: "https://images.unsplash.com/photo-1583939003579-730e3918a45a?auto=format&fit=crop&q=80&w=800" },
   { id: "jNQXAC9IVRw", couple: "Maya & Ravi", duration: "06:10", category: "Wedding Films", thumbnail: "https://images.unsplash.com/photo-1520854221256-17451cc331bf?auto=format&fit=crop&q=80&w=800" },
-  { id: "dQw4w9WgXcQ", couple: "Emily & Jack", duration: "02:30", category: "Highlights", thumbnail: "https://images.unsplash.com/photo-1519225495810-75178319a11b?auto=format&fit=crop&q=80&w=800" },
+  { id: "dQw4w9WgXcQ", couple: "Emily & Jack", duration: "02:30", category: "Highlights", thumbnail: "https://images.unsplash.com/photo-1607190074257-dd4b7af0309f?auto=format&fit=crop&q=80&w=800" },
   { id: "jNQXAC9IVRw", couple: "Isabel & Tom", duration: "04:55", category: "Pre-Shoot Films", thumbnail: "https://images.unsplash.com/photo-1532712938310-34cb3982ef74?auto=format&fit=crop&q=80&w=800" },
 ];
 

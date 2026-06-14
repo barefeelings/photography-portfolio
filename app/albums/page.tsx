@@ -21,13 +21,13 @@ const dummyAlbums: Album[] = [
   { id: 2, couple: "Emma & James", location: "Kandy", date: "Feb 05, 2024", category: "Pre-Shoots", cover: "https://images.unsplash.com/photo-1511285560929-80b456fea0bc?auto=format&fit=crop&q=80&w=800" },
   { id: 3, couple: "Chloe & Mark", location: "Galle", date: "Mar 20, 2024", category: "Wedding Shoots", cover: "https://images.unsplash.com/photo-1583939003579-730e3918a45a?auto=format&fit=crop&q=80&w=800" },
   { id: 4, couple: "Maya & Ravi", location: "Colombo", date: "Apr 15, 2024", category: "Engagements", cover: "https://images.unsplash.com/photo-1520854221256-17451cc331bf?auto=format&fit=crop&q=80&w=800" },
-  { id: 5, couple: "Emily & Jack", location: "Bentota", date: "May 10, 2024", category: "Home Coming", cover: "https://images.unsplash.com/photo-1519225495810-75178319a11b?auto=format&fit=crop&q=80&w=800" },
+  { id: 5, couple: "Emily & Jack", location: "Bentota", date: "May 10, 2024", category: "Home Coming", cover: "https://images.unsplash.com/photo-1607190074257-dd4b7af0309f?auto=format&fit=crop&q=80&w=800" },
   { id: 6, couple: "Isabel & Tom", location: "Nuwara Eliya", date: "Jun 22, 2024", category: "Pre-Shoots", cover: "https://images.unsplash.com/photo-1532712938310-34cb3982ef74?auto=format&fit=crop&q=80&w=800" },
   { id: 7, couple: "Mia & Ethan", location: "Arugam Bay", date: "Jul 18, 2024", category: "Wedding Shoots", cover: "https://images.unsplash.com/photo-1515934751635-c81c6bc9a2d8?auto=format&fit=crop&q=80&w=800" },
-  { id: 8, couple: "Olivia & Leo", location: "Mirissa", date: "Aug 30, 2024", category: "Engagements", cover: "https://images.unsplash.com/photo-1511739001486-6bfe10ce785f?auto=format&fit=crop&q=80&w=800" },
+  { id: 8, couple: "Olivia & Leo", location: "Mirissa", date: "Aug 30, 2024", category: "Engagements", cover: "https://images.unsplash.com/photo-1594816936214-0a90c09eb965?auto=format&fit=crop&q=80&w=800" },
   { id: 9, couple: "Sophia & Liam", location: "Trincomalee", date: "Sep 12, 2024", category: "Wedding Shoots", cover: "https://images.unsplash.com/photo-1544078751-58fee2d8a03b?auto=format&fit=crop&q=80&w=800" },
-  { id: 10, couple: "Ava & Noah", location: "Jaffna", date: "Oct 25, 2024", category: "Pre-Shoots", cover: "https://images.unsplash.com/photo-1522673607200-16488321499b?auto=format&fit=crop&q=80&w=800" },
-  { id: 11, couple: "Luna & Kai", location: "Dambulla", date: "Nov 08, 2024", category: "Home Coming", cover: "https://images.unsplash.com/photo-1465495910483-04104d5f97a5?auto=format&fit=crop&q=80&w=800" },
+  { id: 10, couple: "Ava & Noah", location: "Jaffna", date: "Oct 25, 2024", category: "Pre-Shoots", cover: "https://images.unsplash.com/photo-1629998405073-31b978cef8b5?auto=format&fit=crop&q=80&w=800" },
+  { id: 11, couple: "Luna & Kai", location: "Dambulla", date: "Nov 08, 2024", category: "Home Coming", cover: "https://images.unsplash.com/photo-1722805740177-04256b6517f2?auto=format&fit=crop&q=80&w=800" },
   { id: 12, couple: "Harper & Arlo", location: "Weligama", date: "Dec 15, 2024", category: "Wedding Shoots", cover: "https://images.unsplash.com/photo-1515934751635-c81c6bc9a2d8?auto=format&fit=crop&q=80&w=800" },
 ];
 
